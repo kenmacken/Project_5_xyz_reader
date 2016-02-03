@@ -18,11 +18,15 @@
 <resources>
     <color name="photo_placeholder">#ccc</color>
 
+    <!--This is the colour theme I used
+    https://color.adobe.com/create/color-wheel/?base=2&rule=Complementary&selected=2&name=My%20Color%20Theme&mode=rgb&rgbvalues=0.7,0.06434423890368501,0.5484618316156168,1,0.28384068258195727,0.8292700579858405,1,0.1838406825819573,0.8054303985885867,0.1277598029437513,0.7,0,0.3328011876734369,1,0.1838406825819573&swatchOrder=0,1,2,3,4-->
+
     <color name="theme_primary">#FF2FCD</color>
     <color name="theme_primary_light">#FF48D3</color>
     <color name="theme_primary_dark">#B210BC</color>
     <color name="theme_accent">#55FF2F</color>
     <color name="theme_accent_dark">#55FF2F</color>
+
     <color name="ltgray">#ffe0e0e0</color>
     <color name="dkgray">#5c5a5a</color>
 </resources>
